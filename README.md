@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/64108920/152604073-363150f7-715e-45fa-baad-a961a49884c5.png)
+
+LinkedIn:https://www.linkedin.com/in/pritanshusharma/
+Twitter: https://twitter.com/Pritanshusharma
+
 <!--
 **pritanshusharma-AB/pritanshusharma-AB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
