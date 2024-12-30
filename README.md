@@ -1,4 +1,5 @@
 ### Hi there 👋 
+$ whoami
 
 ![image](https://user-images.githubusercontent.com/64108920/152604073-363150f7-715e-45fa-baad-a961a49884c5.png)
 
