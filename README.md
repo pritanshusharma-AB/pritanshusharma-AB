@@ -1,6 +1,5 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2def1a02-6a20-419a-9c18-b97556094952" />
-# 👋 Hi there
----
+## 👋 Hi there
 
 ```bash
 $ whoami
@@ -91,10 +90,15 @@ $ principles
 > Automation everywhere (CI/CD, testing, infra)
 ````
 ## 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pritanshusharma-AB&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritanshusharma-AB&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ## 🔥 Streak Stats
-<p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pritanshusharma-AB&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## 📫 connect with me on  
 [LinkedIn](https://www.linkedin.com/in/pritanshusharma/)  
