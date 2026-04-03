@@ -1,4 +1,11 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2def1a02-6a20-419a-9c18-b97556094952" />
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pritanshusharma-AB&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 👋 Hi there
 
 ```bash
@@ -89,15 +96,6 @@ $ principles
 > Observability-first systems
 > Automation everywhere (CI/CD, testing, infra)
 ````
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pritanshusharma-AB&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritanshusharma-AB&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ## 📫 connect with me on  
 [LinkedIn](https://www.linkedin.com/in/pritanshusharma/)  
