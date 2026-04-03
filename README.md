@@ -6,10 +6,10 @@
   <img src="https://streak-stats.demolab.com?user=pritanshusharma-AB&theme=tokyonight&hide_border=true" />
 </p>
 
-## 👋 Hi there
+## whoami
 
 ```bash
-$ whoami
+$ name
 > pritanushsharma
 
 $ role
