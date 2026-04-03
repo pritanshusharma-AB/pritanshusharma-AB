@@ -89,18 +89,14 @@ $ principles
 > Observability-first systems
 > Automation everywhere (CI/CD, testing, infra)
 ````
-## 📈 GitHub Stats
+## 📊 GitHub Insights
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pritanshusharma-AB&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=pritanshusharma-AB&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritanshusharma-AB&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pritanshusharma-AB&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritanshusharma-AB&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📫 connect with me on  
