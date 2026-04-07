@@ -3,7 +3,7 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pritanshusharma-AB&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=pritanshusharma&theme=tokyonight&hide_border=true" />
 </p>
 
 ## $whoami
