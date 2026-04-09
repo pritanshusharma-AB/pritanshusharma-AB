@@ -2,9 +2,7 @@
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pritanshusharma&theme=tokyonight&hide_border=true" />
-</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PritanshuSharma&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
@@ -16,18 +14,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PritanshuSharma&theme=tokyonight&hide_border=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=PritanshuSharma&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritanshuSharma&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PritanshuSharma&theme=tokyo-night&hide_border=true"/>
-</p>
 ## $whoami
 
 ```bash
